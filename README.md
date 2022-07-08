@@ -21,3 +21,8 @@
   <code>npm run dev</code>
 
 #### Pronto! aguarde um momento enquanto o servidor é startado e pode usar a aplicação na sua máquina
+
+#### Testes
+
+Essa aplicação contém testes unitários, caso queira executá-los execute o comando abaixo:
+<code>npm run teste</code>
